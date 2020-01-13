@@ -8,7 +8,7 @@ import java.io.BufferedReader;
 
 /*******************************/
 
-public class TryCatch {
+public class UpperCaseText {
     public static void main(String[] args) {
 
         int i = 0;
