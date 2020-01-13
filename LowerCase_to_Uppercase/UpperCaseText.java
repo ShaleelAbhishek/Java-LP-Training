@@ -1,4 +1,4 @@
-/********Integer Reversing********/
+/********Uppercase Convert********/
 /**********12.01.2019*************/
 /*******Shaleel Abhishek**********/
 
