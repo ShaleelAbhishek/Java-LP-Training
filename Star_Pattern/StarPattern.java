@@ -19,8 +19,8 @@ public class StarPattern {
                  for (int b=rows; b>a; b--){
                         System.out.print(" ");
                  }
-                 for (int c=1; c<=(a * 2) -1; c++){		//stars should be odd number everytime. so (number*2)-1 gives 
-                         System.out.print("*");			//an odd number.
+                 for (int c=1; c<=(a * 2) -1; c++){		//stars should be odd number every time. so (number*2)-1 gives 
+                         System.out.print("*");			//an odd number every time.
                  }
                 System.out.println();
              }

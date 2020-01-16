@@ -1,0 +1,8 @@
+1>>To compile this program,first go to 002 directry from CMD.
+2>>Then you have to compile .java files in following order by using below commands.
+		1.>>C:\Users\Shaleel\Desktop\Abhishek\002>javac -cp . C/Course.java
+		2.>>C:\Users\Shaleel\Desktop\Abhishek\002>javac -cp . B/Student.java
+		3.>>C:\Users\Shaleel\Desktop\Abhishek\002>javac -cp . A/Application.java
+		
+3>>Then you have to run the main.
+		C:\Users\Shaleel\Desktop\Abhishek\002>java A/Application
